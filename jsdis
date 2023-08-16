@@ -1,0 +1,3 @@
+var fruits = new Array("apple", "orange", "mango", "banana", "grape");
+
+console.log(fruits.length);
